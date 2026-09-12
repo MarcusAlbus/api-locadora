@@ -1,4 +1,4 @@
-package br.com.ctw.api_locadora.entity;
+/*package br.com.ctw.api_locadora.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
@@ -46,3 +46,4 @@ public class Funcionario {
     @Column(nullable = false)
     private Timestamp ultimaAtualizacao;
 }
+*/

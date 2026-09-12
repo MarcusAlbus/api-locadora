@@ -1,4 +1,5 @@
-package br.com.ctw.api_locadora.entity;
+/*package br.com.ctw.api_locadora.entity;
 
 public enum ClasificacaoEnum {
 }
+*/
